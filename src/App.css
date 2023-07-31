@@ -1,0 +1,11 @@
+.App {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 20px;
+  /* border: 1px solid gray; */
+  display: flex; /* 가로정렬 */
+  flex-direction: column; /* 가로정렬 후 세로 정렬*/
+  gap: 30px;
+}
